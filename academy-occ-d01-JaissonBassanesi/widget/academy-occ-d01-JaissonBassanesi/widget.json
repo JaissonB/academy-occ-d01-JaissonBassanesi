@@ -1,0 +1,53 @@
+{
+  "availableToAllPages": true,
+  "config": {
+    "ImageName": "",
+    "ImageName1": "",
+    "ImageName2": "",
+    "ImageName3": "",
+
+    "imageLink": "",
+    "imageLink1": "",
+    "imageLink2": "",
+    "imageLink3": "",
+
+    "img1": {
+      "mediaName": "banner_cozinha_jaisson.jpg",
+      "src": "file/general/banner_cozinha_jaisson.jpg"
+    },
+    "img2": {
+      "mediaName": "banner_sala-jantar_jaisson.jpg",
+      "src": "file/general/banner_sala-jantar_jaisson.jpg"
+    },
+    "img3": {
+      "mediaName": "banner_sala_jaisson.jpg",
+      "src": "file/general/banner_sala_jaisson.jpg"
+    },
+    "img4": {
+      "mediaName": "banner_suite_jaisson.jpg",
+      "src": "file/general/banner_suite_jaisson.jpg"
+    }
+  },
+  
+  "i18nresources": "academy-occ-d01-JaissonBassanesi",
+  "global": false,
+  "globalEnabled": false,
+  "imports": [],
+  "javascript": "academy-occ-d01-JaissonBassanesi",
+  "jsEditable": true,
+  "minWidth": 1,
+  "source": 101,
+  "translations": [
+    {
+      "language": "en",
+      "name": "academy-occ-d01-JaissonBassanesi"
+    },
+    {
+      "language": "pt_BR",
+      "name": "academy-occ-d01-JaissonBassanesi"
+    }
+  ],
+  "version": 1,
+  "widgetFamily": "academy-occ-d01-JaissonBassanesi",
+  "widgetType": "academy-occ-d01-JaissonBassanesi"
+}

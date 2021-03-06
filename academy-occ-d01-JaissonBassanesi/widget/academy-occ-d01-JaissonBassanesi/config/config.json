@@ -1,0 +1,105 @@
+{
+  "widgetDescriptorName": "academy-occ-d01-JaissonBassanesi",
+  "properties": [
+    {
+      "name": "img",
+      "id": "img",
+      "type": "mediaType",
+      "helpTextResourceId": "imageToShowHelpText",
+      "labelResourceId": "imageToShowLabel",
+      "required": true
+    },
+    {
+      "defaultValue": "",
+      "name": "imageLink",
+      "id": "imageLink",
+      "type": "stringType",
+      "helpTextResourceId": "imageLinkHelpText",
+      "labelResourceId": "imageLinkURLLabel"
+    },
+    {
+      "defaultValue": "",
+      "name": "ImageName",
+      "id": "ImageName",
+      "type": "stringType",
+      "helpTextResourceId": "ImageNameHelpText",
+      "labelResourceId": "ImageNameURLLabel"
+    },
+
+    {
+      "name": "img1",
+      "id": "img1",
+      "type": "mediaType",
+      "helpTextResourceId": "imageToShowHelpText",
+      "labelResourceId": "imageToShowLabel",
+      "required": true
+    },
+    {
+      "defaultValue": "",
+      "name": "imageLink1",
+      "id": "imageLink1",
+      "type": "stringType",
+      "helpTextResourceId": "imageLinkHelpText",
+      "labelResourceId": "imageLinkURLLabel"
+    },
+    {
+      "defaultValue": "",
+      "name": "ImageName1",
+      "id": "ImageName1",
+      "type": "stringType",
+      "helpTextResourceId": "ImageNameHelpText",
+      "labelResourceId": "ImageNameURLLabel"
+    },
+
+    {
+      "name": "img2",
+      "id": "img2",
+      "type": "mediaType",
+      "helpTextResourceId": "imageToShowHelpText",
+      "labelResourceId": "imageToShowLabel",
+      "required": true
+    },
+    {
+      "defaultValue": "",
+      "name": "imageLink2",
+      "id": "imageLink2",
+      "type": "stringType",
+      "helpTextResourceId": "imageLinkHelpText",
+      "labelResourceId": "imageLinkURLLabel"
+    },
+    {
+      "defaultValue": "",
+      "name": "ImageName2",
+      "id": "ImageName2",
+      "type": "stringType",
+      "helpTextResourceId": "ImageNameHelpText",
+      "labelResourceId": "ImageNameURLLabel"
+    },
+
+    {
+      "name": "img3",
+      "id": "img3",
+      "type": "mediaType",
+      "helpTextResourceId": "imageToShowHelpText",
+      "labelResourceId": "imageToShowLabel",
+      "required": true
+    },
+    {
+      "defaultValue": "",
+      "name": "imageLink3",
+      "id": "imageLink3",
+      "type": "stringType",
+      "helpTextResourceId": "imageLinkHelpText",
+      "labelResourceId": "imageLinkURLLabel"
+    },
+    {
+      "defaultValue": "",
+      "name": "ImageName3",
+      "id": "ImageName3",
+      "type": "stringType",
+      "helpTextResourceId": "ImageNameHelpText",
+      "labelResourceId": "ImageNameURLLabel"
+    }
+  ]
+  
+}
